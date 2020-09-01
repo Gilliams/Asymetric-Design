@@ -6,6 +6,7 @@
  
  https://htmlpreview.github.io/?https://github.com/Gilliams/Asymetric-Design/blob/master/index.html
 
-## https://www.youtube.com/watch?v=QBfblbmTTF4&t=4s
+## Maquette par Kevin Powell
+https://www.youtube.com/watch?v=QBfblbmTTF4&t=4s
 
 > Css à changer, valeur **subgrid** non prise en compte dans Chrome
