@@ -3,7 +3,8 @@
 
 # Preview
 > Css à changer, valeur **subgrid** non prise en compte dans Chrome
- Pour un resultat optimal lisez ce lien dans Firefox
+
+Pour un resultat optimal lisez ce lien dans Firefox
  
  https://htmlpreview.github.io/?https://github.com/Gilliams/Asymetric-Design/blob/master/index.html
 
